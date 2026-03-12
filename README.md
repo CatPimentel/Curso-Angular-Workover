@@ -1,27 +1,52 @@
-# Curso
+# Curso Angular - Workover
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.17.
+Projeto desenvolvido durante estudos de Angular com o objetivo de praticar conceitos fundamentais do framework, incluindo criação de componentes, organização de layout e utilização de diretivas e ciclos de vida.
 
-## Development server
+## Sobre o projeto
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Este projeto foi criado para consolidar conhecimentos no desenvolvimento de aplicações front-end utilizando Angular. Durante o desenvolvimento foram explorados conceitos importantes da arquitetura do framework, componentização de interface e boas práticas na organização de código.
 
-## Code scaffolding
+## Tecnologias utilizadas
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* Angular
+* TypeScript
+* HTML
+* CSS
+* Angular CLI
 
-## Build
+## Conceitos aplicados
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+* Criação e organização de componentes
+* Estrutura de layout reutilizável
+* Componentização de interface (Navbar, Footer e Base UI)
+* Ciclo de vida de componentes
+* Diretivas estruturais do Angular
+* Projeção de conteúdo com `ng-content`
+* Renderização de listas com `ngFor`
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Como executar o projeto
 
-## Running end-to-end tests
+Clone o repositório:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+git clone https://github.com/CatPimentel/Curso-Angular-Workover.git
 
-## Further help
+Acesse a pasta do projeto:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+cd Curso-Angular-Workover
+
+Instale as dependências:
+
+npm install
+
+Execute o servidor de desenvolvimento:
+
+ng serve
+
+Abra no navegador:
+
+http://localhost:4200
+
+## Autor
+
+Desenvolvido por **Caterine Rodrigues** durante estudos de Angular.
